@@ -8,7 +8,6 @@ const Login = () => {
         email: "",
         password: "",
     });
-
     const inputHandle = (e) => {
         setState({
             ...state,

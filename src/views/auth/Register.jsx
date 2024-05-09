@@ -9,7 +9,6 @@ const Register = () => {
         email: "",
         password: "",
     });
-
     const inputHandle = (e) => {
         setState({
             ...state,
