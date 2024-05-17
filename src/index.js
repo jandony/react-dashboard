@@ -15,7 +15,7 @@ root.render(
             <Suspense>
                 <App />
                 <Toaster 
-                    toastOPtions={{
+                    toastOptions={{
                         position: 'top-right',
                         style: {
                             background: '#283046',
